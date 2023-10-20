@@ -24,8 +24,7 @@ Resources
 -   [MySQL primary replica setup](https://alx-intranet.hbtn.io/rltoken/z2KVk2UKLMc0RvHMdJmYLg "MySQL primary replica setup")
 -   [Build a robust database backup strategy](https://alx-intranet.hbtn.io/rltoken/BharnxaLb-BDDYFywzME2Q "Build a robust database backup strategy")
 
-**man or help**:
-
+**man or help**
 -   `mysqldump`
 
 Learning Objectives
@@ -54,7 +53,6 @@ Requirements
 -   Your Bash script must pass `Shellcheck` (version `0.3.7-5~ubuntu16.04.1` via `apt-get`) without any error
 -   The first line of all your Bash scripts should be exactly `#!/usr/bin/env bash`
 -   The second line of all your Bash scripts should be a comment explaining what is the script doing
-
 Your servers
 ------------
 
